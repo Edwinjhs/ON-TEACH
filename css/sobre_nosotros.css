@@ -1,9 +1,9 @@
 .caja_mayor{
     display: flex;
-    padding: 30px 80px;
+    padding: 30px 40px;
 }
 .sobre_nosotros_contenido{
-    padding: 20px 20px 10px 10px;
+    padding: 20px 10px 10px 10px;
 }
 .sobre_nosotros_titulo{
     font-family: 'Montserrat';

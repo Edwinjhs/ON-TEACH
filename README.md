@@ -2,7 +2,8 @@
 ![panda-3](https://i.postimg.cc/fy7VXhBq/pandeichun.png)
 
 Mi proyecto ON TEACH
-        - Comence haciendo un HTML y un CSS desde el comienzo para entender el codigo
+
+        - Comence haciendo un HTML y un CSS desde 0 para entender el codigo
         
         - El diseño del mackup https://www.figma.com/file/V3q5EKMxoting5OUxNWTcS/Untitled?node-id=0%3A1
         
